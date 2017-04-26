@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JSONDemo_20170421</string>
+
+    <string name="object">object</string>
+    <string name="number">number</string>
+    <string name="exp_month">exp_month</string>
+    <string name="exp_year">exp_year</string>
+    <string name="cvc">cvc</string>
+</resources>
